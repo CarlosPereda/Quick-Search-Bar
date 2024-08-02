@@ -46,11 +46,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center" style="margin-bottom: 20px">
+![hippo](Documentation\searchBarsExample1.gif)
+<!-- <div align="center" style="margin-bottom: 20px">
   <a href="https://github.com/CarlosPereda/Quick-Search-Bar">
     <img src="Documentation\searchBarsExample1.gif" width="800">
   </a>
-</div>
+</div> -->
 
 <div align="center" style="margin-bottom: 20px">
   <a href="https://github.com/CarlosPereda/Quick-Search-Bar">
